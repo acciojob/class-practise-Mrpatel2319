@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-.selector:nth-child(2),.selector:nth-child(4){
+.selector{
 color: rgb(0, 0, 255);
 background-color: rgb(238, 238, 238);
 font-family: Arial;
